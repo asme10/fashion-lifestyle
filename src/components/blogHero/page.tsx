@@ -18,20 +18,18 @@ const BlogHeroPage: FC = () => {
         />
 
         <div className="absolute inset-0 bg-black opacity-50 z-10">
-          <div className="w-full mt-20 md:mt-28 ml-8 md:ml-32 flex flex-col text-white p-4 bg-opacity-50 z-[-1]">
+          <div className="w-full sm:mt-30 sm:mb-10 mt-20 md:mt-28 ml-8 md:ml-32 flex flex-col text-white p-4 bg-opacity-50 z-[-1]">
             <h1 className="text-5xl md:text-6xl font-semibold">Blog!</h1>
           </div>
         </div>
       </div>
-      <div className="absolute w-[380px] md:w-[90%] max-w-[500px] h-auto md:h-[640px] rounded-md top-[28%] md:top-[42%] mx-6 md:ml-36 z-10 shadow-md border-[#c29f9e] border bg-[#c29f9e]">
+      <div className="absolute  w-[360px] md:w-[90%] max-w-[500px] h-auto md:h-[640px] rounded-md top-[30%] md:top-[42%] mx-5  md:ml-36 z-10 shadow-md border-[#c29f9e] border bg-[#c29f9e]">
         <Image
           src={HeroCardImg}
           alt="Blog Card Image"
           objectFit="cover"
           layout="responsive"
-          width={520}
-          height={300}
-          className="rounded-t-md"
+          className="w-[300px} rounded-t-md"
         />
         <div className="flex flex-col mx-6 md:mx-10 text-gray-50 py-8">
           <h3 className="text-xl md:text-2xl pb-4">Street Shopping Tips</h3>
