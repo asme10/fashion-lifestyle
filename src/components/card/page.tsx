@@ -17,7 +17,7 @@ const CardPage: React.FC<CardPageProps> = ({
   description,
 }) => {
   return (
-    <div className="w-[400px] h-[560px] mx-auto md:mx-0 md:w-[560px] md:h-[600px] rounded-md shadow-md border-[#ffffff] border bg-[#ffffff] transition-transform hover:scale-105 hover:shadow-sm">
+    <div className="w-[380px] h-[560px] mx-auto md:mx-0 md:w-[560px] md:h-[600px] rounded-md shadow-md border-[#ffffff] border bg-[#ffffff] transition-transform hover:scale-105 hover:shadow-sm">
       <Image
         src={imageSrc}
         alt="Blog Card Image"

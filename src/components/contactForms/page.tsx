@@ -127,8 +127,8 @@ const ContactFormsPage = () => {
               name="message"
             ></textarea>
           </div>
-          <div className="flex gap-3 border border-[#c19e9e] rounded-sm text-[#c19e9e] w-[160px] md:w-[200px] mt-8 md:mt-0 py-3 px-3 hover:bg-gray-600 hover:text-white transition ease-in-out">
-            <span>Let us Get Started</span>
+          <div className="flex gap-3 border border-[#c19e9e] rounded-sm text-[#c19e9e] w-[140px] py-2 px-2 md:py-3 md:px-3 mt-8 md:mt-0 hover:bg-[#c19e9e] hover:text-white transition ease-in-out">
+            <span>Get Started</span>
           </div>
         </form>
       </div>

@@ -47,13 +47,13 @@ const Header = () => {
           className=" hover:text-orange-500 transition duration-300 py-2 border-b-[2px] border-b-[#ae9191] md:border-none md:py-0"
           onClick={handleLink}
         >
-          <Link href="/blog">Blog</Link>
+          <Link href="/blog/">Blog</Link>
         </li>
         <li
           className=" hover:text-orange-500 transition duration-300 py-2 border-b-[2px] border-b-[#ae9191] md:border-none md:py-0"
           onClick={handleLink}
         >
-          <Link href="/contact">Contact</Link>
+          <Link href="/contact/">Contact</Link>
         </li>
         <div className="flex flex-col md:flex-row text-xl md:text-md gap-4 md:gap-6 md:text-xl mt-2 md:mt-0 ">
           <Link

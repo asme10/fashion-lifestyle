@@ -23,7 +23,7 @@ const BlogHeroPage: FC = () => {
           </div>
         </div>
       </div>
-      <div className="absolute w-[400px] md:w-[90%] max-w-[520px] h-auto md:h-[640px] rounded-md top-[28%] md:top-[42%] mx-4 md:ml-36 z-10 shadow-md border-[#c29f9e] border bg-[#c29f9e]">
+      <div className="absolute w-[380px] md:w-[90%] max-w-[500px] h-auto md:h-[640px] rounded-md top-[28%] md:top-[42%] mx-6 md:ml-36 z-10 shadow-md border-[#c29f9e] border bg-[#c29f9e]">
         <Image
           src={HeroCardImg}
           alt="Blog Card Image"

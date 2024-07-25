@@ -12,7 +12,7 @@ import {
 
 const ConsultationsPage: FC = () => {
   return (
-    <div className="relative w-full h-[640px] md:h-[700px] overflow-hidden">
+    <div className="relative w-full h-[700px] md:h-screen overflow-hidden">
       <Image
         src={BgImage}
         alt="Background Image"
@@ -36,11 +36,11 @@ const ConsultationsPage: FC = () => {
           needs and create a personalized plan just for you!
         </p>
       </div>
-      <div className="flex items-center m-auto gap-3 border rounded-sm text-gray-100 text-center w-[190px] md:w-[200px] py-3 px-3 hover:bg-gray-50 hover:text-black transition ease-in-out ">
+      <div className="flex items-center m-auto gap-3 border rounded-sm hover:border-[#c19e9e] text-gray-100 text-center w-[160px] py-2 px-2 md:py-3 md:px-3 hover:bg-[#c19e9e] hover:text-white transition ease-in-out">
         <FaArrowRight />
-        <span>Let us Get Started</span>
+        <span>Get Started</span>
       </div>
-      <ul className="flex flex-wrap justify-center gap-6 md:gap-8 my-14 mb-8 ">
+      <ul className="flex flex-wrap justify-center gap-6 md:gap-8 my-14 md:mt-18 ">
         <li className="flex items-center justify-center text-xl bg-gray-200 w-9 h-9 text-black rounded-full hover:bg-[#c19e9e] transition duration-300 ease-in-out">
           <Link href="https://www.facebook.com/login/">
             <FaFacebookF />
