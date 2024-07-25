@@ -31,14 +31,14 @@ const ConsultationsPage: FC = () => {
         </h1>
         <p className="text-md md:text-lg leading-8 font-montserrat mb-2 text-gray-300 max-w-md md:max-w-4xl">
           Discover the best version of yourself with a free consultation.
-          Whether you're looking to revamp your wardrobe, get styling tips, or
-          need a complete makeover, we're here to help. Let's discuss your needs
-          and create a personalized plan just for you!
+          Whether you are looking to revamp your wardrobe, get styling tips, or
+          need a complete makeover, we are here to help. Let us discuss your
+          needs and create a personalized plan just for you!
         </p>
       </div>
       <div className="flex items-center m-auto gap-3 border rounded-sm text-gray-100 text-center w-[190px] md:w-[200px] py-3 px-3 hover:bg-gray-50 hover:text-black transition ease-in-out ">
         <FaArrowRight />
-        <span>Let's Get Started</span>
+        <span>Let us Get Started</span>
       </div>
       <ul className="flex flex-wrap justify-center gap-6 md:gap-8 my-14 mb-8 ">
         <li className="flex items-center justify-center text-xl bg-gray-200 w-9 h-9 text-black rounded-full hover:bg-[#c19e9e] transition duration-300 ease-in-out">

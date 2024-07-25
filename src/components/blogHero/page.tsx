@@ -38,7 +38,7 @@ const BlogHeroPage: FC = () => {
           <p className="text-sm md:text-md pb-3">March 14, 2019</p>
           <p className="text-sm md:text-md pb-3">
             Discover the hidden gems of street shopping with our expert tips!
-            From bargaining tactics to finding unique items, we've got you
+            From bargaining tactics to finding unique items, we have got you
             covered. Learn how to navigate crowded markets and uncover the best
             deals.
           </p>

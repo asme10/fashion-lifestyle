@@ -26,11 +26,11 @@ const DiscoverPage = () => {
             Discover Your Personal Style and the Confidence That Comes with It.
           </h3>
           <p className="py-10 text-[20px] md:text-[18px] text-white block w-full md:w-[530px]">
-            "Working with Sarah has completely transformed my style and
+            Working with Sarah has completely transformed my style and
             confidence. Her keen eye for detail and understanding of my personal
             preferences have helped me discover a new wardrobe that I absolutely
             love. I highly recommend her services to anyone looking to elevate
-            their fashion game."
+            their fashion game.
           </p>
           <div className="text-white text-xl md:text-[16px] border rounded-md w-[180px] md:w-[150px] py-3 px-3 md:py-2 md:px-2 flex items-center hover:bg-white hover:opacity-60 hover:text-black cursor-pointer">
             <FaArrowRight className="mx-2" />

@@ -27,9 +27,9 @@ const PersonalPage: React.FC = () => {
               Comments: It is nice, I like it
             </p>
             <p className="text-sm md:text-md pb-2 font-light">
-              "Discover the best street shopping spots and tips for finding
+              Discover the best street shopping spots and tips for finding
               unique and affordable items. Enhance your shopping experience with
-              practical advice and insider secrets."
+              practical advice and insider secrets.
             </p>
           </div>
         </div>
@@ -47,8 +47,8 @@ const PersonalPage: React.FC = () => {
             <p className="text-sm md:text-md pb-2">April 2, 2020</p>
             <p className="text-sm md:text-md pb-2 italic">No Comments</p>
             <p className="text-sm md:text-md pb-2 font-light">
-              "Explore the best places to visit around the world. Start planning
-              your next adventure today and create unforgettable memories."
+              Explore the best places to visit around the world. Start planning
+              your next adventure today and create unforgettable memories.
             </p>
           </div>
         </div>
@@ -68,9 +68,9 @@ const PersonalPage: React.FC = () => {
               Comments: Loving the styles!
             </p>
             <p className="text-sm md:text-md pb-2 font-light">
-              "Stay updated with the latest fashion trends and styles. Find out
-              what's in vogue and how to incorporate new trends into your
-              wardrobe."
+              Stay updated with the latest fashion trends and styles. Find out
+              what us in vogue and how to incorporate new trends into your
+              wardrobe.
             </p>
           </div>
         </div>

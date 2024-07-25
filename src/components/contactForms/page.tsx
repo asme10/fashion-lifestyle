@@ -18,11 +18,11 @@ const ContactFormsPage = () => {
       <div className="w-full mt-36 md:mt-0 md:w-1/2 relative">
         <div className=" absolute flex justify-start text-[200px] md:text-[280px] text-[#FEF7F4] -mt-40 md:-mt-60">
           <ImQuotesRight />
-        </div>  
+        </div>
         <blockquote className=" absolute text-lg md:text-base text-gray-700 mb-6 m-w-[400px] md:w-[500px] leading-8 -mt-24">
-          "Connecting with people and understanding their needs is the
-          cornerstone of my work. Let’s start a conversation and discover how we
-          can make you look and feel your best."
+          Connecting with people and understanding their needs is the
+          cornerstone of my work. Let us start a conversation and discover how
+          we can make you look and feel your best.
         </blockquote>
 
         <div className="flex gap-6 items-center pt-24 md:pt-4">
@@ -128,7 +128,7 @@ const ContactFormsPage = () => {
             ></textarea>
           </div>
           <div className="flex gap-3 border border-[#c19e9e] rounded-sm text-[#c19e9e] w-[160px] md:w-[200px] mt-8 md:mt-0 py-3 px-3 hover:bg-gray-600 hover:text-white transition ease-in-out">
-            <span>Let's Get Started</span>
+            <span>Let us Get Started</span>
           </div>
         </form>
       </div>
