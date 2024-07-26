@@ -22,17 +22,17 @@ const DiscoverPage = () => {
           />
         </div>
         <div className="w-full h-[700px] md:h-0 md:w-1/2 mt-40 md:mt-0 px-6 md:px-0">
-          <h3 className="pt-36 text-white max-w-[380px] text-2xl block w-[500px] tracking-wide font-semibold md:font-normal ">
+          <h3 className="pt-36 text-white max-w-[300px] text-lg md:max-w-[380px] md:text-2xl block w-[500px] tracking-wide font-semibold ">
             Discover Your Personal Style and the Confidence That Comes with It.
           </h3>
-          <p className="py-10 text-[20px] md:text-[18px] text-white block w-full md:w-[530px]">
+          <p className="py-10 text-md md:text-[18px] text-white block w-full md:w-[530px]">
             Working with Sarah has completely transformed my style and
             confidence. Her keen eye for detail and understanding of my personal
             preferences have helped me discover a new wardrobe that I absolutely
             love. I highly recommend her services to anyone looking to elevate
             their fashion game.
           </p>
-          <div className="text-white text-xl md:text-[16px] border rounded-md w-[180px] md:w-[150px] py-3 px-3 md:py-2 md:px-2 flex items-center hover:bg-white hover:opacity-60 hover:text-black cursor-pointer">
+          <div className="text-white text-sm md:text-xl md:text-[16px] border rounded-md w-[120px] md:w-[180px] py-2 md:py-3 md:px-2 flex items-center hover:bg-white hover:opacity-60 hover:text-black cursor-pointer">
             <FaArrowRight className="mx-2" />
             Read More
           </div>
