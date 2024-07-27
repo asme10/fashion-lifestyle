@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to the Fashion Lifestyle website! This project is built using **Next.js 14**, **TypeScript**, and **Tailwind CSS** to enhance my knowledge of these technologies. The website showcases a variety of fashion items and includes features such as a search bar and sorting options to improve the user experience. This project serves as a practical example of using modern web development tools to create a responsive and dynamic web application.
+Welcome to the Fashion Lifestyle website! This project is built using **Next.js 14**, **TypeScript**, and **Tailwind CSS** to enhance my knowledge of these technologies. The website showcases a variety of fashion items to improve the user experience. This project serves as a practical example of using modern web development tools to create a responsive and dynamic web application.
 
 ## Getting Started
 
